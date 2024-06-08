@@ -9,7 +9,8 @@ Instructions to use geneious:
 
 ## Install FortiClient VPN
 
-1. Go to the University of Calgary software distribution center;  https://iac01.ucalgary.ca/SDSWeb/.
+1. Go to the University of Calgary software distribution center;  
+   https://iac01.ucalgary.ca/SDSWeb/LandingPage.aspx?ReturnUrl=%2fSDSWeb%2f.
 2. Click on 'Continue to login' buttom.
 3. By the end of the page, you will see 'FortiClient (MFA VPN 2022) 7.0.3 (Version may change over time). Click on Select (in red at the right).
 4. Select the corresponding installer for you operating system. Click on [Details/Download]
