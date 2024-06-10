@@ -7,6 +7,8 @@ The Faculty of Veterinary Medicine of the University of Calgary  has purchased a
 
 Instructions to use geneious:
 
+If you are a visual person, you may want to see the YouTube video, which will walk you through the whole process described here: https://www.youtube.com/watch?v=OZBIoREW68E
+
 ## Install FortiClient VPN
 
 1. Go to the University of Calgary software distribution center;  
