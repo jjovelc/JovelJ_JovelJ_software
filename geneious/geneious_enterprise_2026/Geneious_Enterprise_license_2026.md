@@ -5,13 +5,13 @@
     - Click on `Geneious Prime My Account`
 
 <div align="center">
-   <img src="geneious-1.png" width="600" alt="Quality Scores Line Plot">
+   <img src="geneious-1.png" width="800" alt="Quality Scores Line Plot">
 </div>
 
 2. Create an account if you don't already have one (just following the simple instructions provided.
 
 <div align="center">
-    <img src="geneious-2.png" width="500" alt="Quality Scores Line Plot">
+    <img src="geneious-2.png" width="800" alt="Quality Scores Line Plot">
 </div> 
 
 If you successfully created an account you should see the following screen.
