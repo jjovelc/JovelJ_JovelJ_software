@@ -39,13 +39,13 @@ You are ready to go.
 Open the Geneious App. At some point you will see an box like the following:
 
 <div align="center">
-    <img src="geneious-6.png" width="300" alt="Quality Scores Line Plot">
+    <img src="geneious-6.png" width="400" alt="Quality Scores Line Plot">
 </div> 
 
 Just click on `activate license`, You will see the following dialog box:
 
 <div align="center">
-    <img src="geneious-7.png" width="600" alt="Quality Scores Line Plot">
+    <img src="geneious-7.png" width="300" alt="Quality Scores Line Plot">
 </div> 
 
 - Select `Email Sign in`.
@@ -54,13 +54,13 @@ Just click on `activate license`, You will see the following dialog box:
 If succesful, you should see the following dialog box:
 
 <div align="center">
-    <img src="geneious-8.png" width="600" alt="Quality Scores Line Plot">
+    <img src="geneious-8.png" width="300" alt="Quality Scores Line Plot">
 </div> 
 
 That's it. You are set, go and crack sequences, genomes, clones, etc.
 
 <div align="center">
-    <img src="geneious-9.png" width="600" alt="Quality Scores Line Plot">
+    <img src="geneious-9.png" width="300" alt="Quality Scores Line Plot">
 </div> 
 
 
