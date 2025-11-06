@@ -2,7 +2,7 @@
 
 1. Go to [Genious](https://www.geneious.com) to create an user account.
     - Click on `Sign in`
-    - Click on 'Geneious Prime My Account'
+    - Click on `Geneious Prime My Account`
 
 <div align="center">
    <img src="geneious-1.png" width="600" alt="Quality Scores Line Plot">
@@ -28,6 +28,43 @@ You are ready to go.
     <img src="geneious-4.png" width="600" alt="Quality Scores Line Plot">
 </div> 
 
-4. Send and e-mail to Juan Jovel to get an invitation as license user. The license will be associated to the email you indicate and will be valid for two computers.
+4. Send and e-mail to Juan Jovel to get an invitation as license user. The license will be associated to the email you indicate and will be valid for two computers. After you accept the invitation, if you login in into your geneious account, you can see that a geneious license is available to you. You will see something like this:
 
-5. Open Geneious
+<div align="center">
+    <img src="geneious-5.png" width="600" alt="Quality Scores Line Plot">
+</div> 
+
+5. Activate your license in Geneious.
+
+Open the Geneious App. At some point you will see an box like the following:
+
+<div align="center">
+    <img src="geneious-6.png" width="300" alt="Quality Scores Line Plot">
+</div> 
+
+Just click on `activate license`, You will see the following dialog box:
+
+<div align="center">
+    <img src="geneious-7.png" width="600" alt="Quality Scores Line Plot">
+</div> 
+
+- Select `Email Sign in`.
+- Provide your email and password (the same ones you use to sign in in the geneious webpage.
+
+If succesful, you should see the following dialog box:
+
+<div align="center">
+    <img src="geneious-8.png" width="600" alt="Quality Scores Line Plot">
+</div> 
+
+That's it. You are set, go and crack sequences, genomes, clones, etc.
+
+<div align="center">
+    <img src="geneious-9.png" width="600" alt="Quality Scores Line Plot">
+</div> 
+
+
+
+
+
+
