@@ -33,11 +33,7 @@ Ideally, install the newest version of Geneious. Go to [Downloads](https://www.g
 
 **3. Get license**
 
-Send and e-mail to Juan Jovel to get an invitation as license user. Please indicate the email, to which you want each license to be associated with. Each license is valid for two computers. After you accept the invitation, if you login into your geneious account again, you can see that a geneious license is available to you. You will see something like this:
-
-<div align="center">
-    <img src="images/geneious-5.png" width="600" alt="Quality Scores Line Plot">
-</div> 
+Send and e-mail to Juan Jovel to get an invitation as license user. Please indicate the email to which you want each license to be associated with (ucalgary email addresses are preferred). Each license is valid for two computers.
 
 **4. Activate your license in the Geneious app**
 
