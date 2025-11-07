@@ -10,7 +10,7 @@ Go to [Genious](https://www.geneious.com) to create an user account.
    <img src="images/geneious-1.png" width="800" alt="Quality Scores Line Plot">
 </div>
 
-Create an account if you don't already have one (just following the simple instructions provided.
+Create an account if you don't already have one (just following the simple instructions provided).
 
 <div align="center">
     <img src="images/geneious-2.png" width="800" alt="Quality Scores Line Plot">
