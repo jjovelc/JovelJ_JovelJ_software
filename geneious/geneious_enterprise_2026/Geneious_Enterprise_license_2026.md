@@ -1,6 +1,8 @@
 # Getting Geneious Enterprise up and running
 
-1. Go to [Genious](https://www.geneious.com) to create an user account.
+**1. Create Geneious account**
+
+Go to [Genious](https://www.geneious.com) to create an user account.
     - Click on `Sign in`
     - Click on `Geneious Prime My Account`
 
@@ -8,7 +10,7 @@
    <img src="images/geneious-1.png" width="800" alt="Quality Scores Line Plot">
 </div>
 
-2. Create an account if you don't already have one (just following the simple instructions provided.
+Create an account if you don't already have one (just following the simple instructions provided.
 
 <div align="center">
     <img src="images/geneious-2.png" width="800" alt="Quality Scores Line Plot">
@@ -20,21 +22,24 @@ If you successfully created an account you should see the following screen.
     <img src="images/geneious-3.png" width="600" alt="Quality Scores Line Plot">
 </div> 
 
-You are ready to go.
 
-3. Ideally, install the newest version of Geneious. Go to [Downloads](https://www.geneious.com/updates) and install the version of Geneious suitable for your operating system. The license will work with previous version of Geneious, but you may miss some of the new features.
+**2. Install Geneious**
+
+Ideally, install the newest version of Geneious. Go to [Downloads](https://www.geneious.com/updates) and install the version of Geneious suitable for your operating system. The license will work with previous version of Geneious, but you may miss some of the new features.
 
 <div align="center">
     <img src="images/geneious-4.png" width="600" alt="Quality Scores Line Plot">
 </div> 
 
-4. Send and e-mail to Juan Jovel to get an invitation as license user. The license will be associated to the email you indicate and will be valid for two computers. After you accept the invitation, if you login in into your geneious account, you can see that a geneious license is available to you. You will see something like this:
+**3. Get license**
+
+Send and e-mail to Juan Jovel to get an invitation as license user. Please indicate the email, to which you want each license to be associated with. Each license be valid for two computers. After you accept the invitation, if you login into your geneious account again, you can see that a geneious license is available to you. You will see something like this:
 
 <div align="center">
     <img src="images/geneious-5.png" width="600" alt="Quality Scores Line Plot">
 </div> 
 
-5. Activate your license in Geneious.
+**4. Activate your license in the Geneious app**
 
 Open the Geneious App. At some point you will see an box like the following:
 
