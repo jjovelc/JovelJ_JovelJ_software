@@ -1,6 +1,6 @@
 # Getting Geneious Enterprise up and running
 
-**1. Create Geneious account** (only if you don't have one)
+**1. Create Geneious account** (if you don't have one)
 
 Go to [Genious](https://www.geneious.com) to create an user account.
     - Click on `Sign in`
