@@ -64,3 +64,5 @@ That's it. You are set, go and crack sequences, genomes, clones, etc.
     <img src="images/geneious-9.png" width="300" alt="Quality Scores Line Plot">
 </div> 
 
+Please let me know if you have any problem.
+
