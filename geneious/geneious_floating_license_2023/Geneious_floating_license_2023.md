@@ -1,6 +1,8 @@
 
 <img src="images/geneious_logo.png" alt="Geneious logo" width="400"/>
 
+### Our floating license will stop working on December 2025
+
 ---
 Geneious is a high-level bioinformatics software suitable to conduct a series of Molecular Biology tasks, including sequence analysis, visualization and database exploration.
 The Faculty of Veterinary Medicine of the University of Calgary  has purchased a floating license, which operates through a virtual machine that can accessed remotely from any terminal in Campus (UofA) or remotely. In both cases, a VPN connection is required.
